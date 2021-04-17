@@ -36,7 +36,7 @@ namespace task2
         }
     }
 
-    class ContinentalBreakfast : Breakfast
+    class ContinentalBreakfast : Breakfast 
     {
         protected override void Cook()
         {
